@@ -18,4 +18,4 @@ git clone https://github.com/Erenhacker/Aaryan.git
 
 cd Aaryan
 
-python2 Aaryan.py
+python2 Aryan.py
